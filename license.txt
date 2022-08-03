@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jell Sky
+* source:	https://sketchfab.com/3d-models/jell-sky-77d221c41dc648c9a032a76ce4164395
+* author:	Parit.Treechadarat (https://sketchfab.com/Parit.Treechadarat)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jell Sky" (https://sketchfab.com/3d-models/jell-sky-77d221c41dc648c9a032a76ce4164395) by Parit.Treechadarat (https://sketchfab.com/Parit.Treechadarat) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
